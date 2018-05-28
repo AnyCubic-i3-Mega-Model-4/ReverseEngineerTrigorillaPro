@@ -4,7 +4,7 @@ The Trigorilla Pro board is the board that regulary comes with newer AnyCubic i3
 
 ![Trigorilla Pro board in my hand](https://raw.githubusercontent.com/RuiCarneiro/ReverseEngineerTrigorillaPro/master/hero.jpg)
 
-Hi, my board broke one stepper, AnyCubic said they are sending me one, so I've taken out mine
+Hi, my board broke one stepper, AnyCubic said they are sending me a new one, so I've taken out mine
 and decided to see what's there, sharing here what I've learned with everyone who wants.
 
 ## Organization
